@@ -1,4 +1,4 @@
-package SeminarOne;
+package Seminar1;
 
 import org.junit.jupiter.api.*;
 

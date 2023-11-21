@@ -1,4 +1,4 @@
-package SeminarTwo;
+package Seminar2;
 
 public class Car extends Vehicle {
     public Car(String company, String model, int year) {

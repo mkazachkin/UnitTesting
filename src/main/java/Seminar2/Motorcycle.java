@@ -1,4 +1,4 @@
-package SeminarTwo;
+package Seminar2;
 
 public class Motorcycle extends Vehicle {
     public Motorcycle (String company, String model, int year) {

@@ -1,6 +1,5 @@
-package SeminarTwo;
+package Seminar2;
 
-import SeminarOne.Calculator;
 import org.junit.jupiter.api.*;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;

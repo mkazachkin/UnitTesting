@@ -1,4 +1,4 @@
-package SeminarTwo;
+package Seminar2;
 
 public abstract class Vehicle implements IVehicle {
     private String company;

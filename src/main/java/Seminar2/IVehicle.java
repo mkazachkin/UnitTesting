@@ -1,4 +1,4 @@
-package SeminarTwo;
+package Seminar2;
 
 public interface IVehicle {
     void testDrive ();

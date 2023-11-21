@@ -1,6 +1,4 @@
-package SeminarOne;
-
-import static java.lang.Math.*;
+package Seminar1;
 
 public class Calculator {
     public static double calculation(double firstOperand, double secondOperand, char operator) {
